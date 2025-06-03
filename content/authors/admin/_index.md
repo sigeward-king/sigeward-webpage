@@ -3,7 +3,7 @@
 title: Sigeward
 
 # Name pronunciation (optional)
-name_pronunciation:Cheng Ni
+name_pronunciation: Cheng Ni
 
 # Full name (for SEO)
 first_name: Cheng
